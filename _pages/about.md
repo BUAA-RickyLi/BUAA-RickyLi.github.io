@@ -103,7 +103,7 @@ redirect_from:
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Under Review</div>
-    <img src='images/uniscenev2_pipeline.png' alt="UniScenev2" width="100%">
+    <video src='images/uniscenev2_demo.mp4' autoplay loop muted playsinline width="100%" style="border-radius:4px;"></video>
   </div>
   <div class='paper-box-text'>
     <h3>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method</h3>

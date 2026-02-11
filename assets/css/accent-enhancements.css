@@ -372,85 +372,87 @@ body {
   color: white !important;
 }
 
-/* 论文卡片 - 上图下文垂直布局 */
+/* 论文卡片 - 左图右文横向布局 */
 .paper-box {
   display: flex !important;
-  flex-direction: column;
+  flex-direction: row;
   background: #ffffff !important;
-  border-radius: 10px;
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
   border: 1px solid #e2e8f0;
-  transition: all 0.3s ease;
+  transition: all 0.25s ease;
   position: relative;
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.5rem;
 }
 
 .paper-box:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   border-color: #cbd5e0;
 }
 
 .paper-box-image {
   position: relative;
-  width: 100%;
+  width: 250px;
+  min-width: 250px;
   overflow: hidden;
-  background: #f7fafc;
+  background: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px 24px;
+  flex-shrink: 0;
+  padding: 8px;
   box-sizing: border-box;
-  border-bottom: 1px solid #e2e8f0;
 }
 
 .paper-box-image img {
   width: 100%;
-  max-height: 240px;
+  height: auto;
   object-fit: contain;
   border-radius: 4px;
 }
 
 .paper-box-image .badge {
   position: absolute;
-  top: 12px;
-  left: 12px;
+  top: 10px;
+  left: 10px;
   background: #012F63;
   color: white;
-  padding: 0.25em 0.6em;
-  border-radius: 4px;
-  font-size: 0.7em;
+  padding: 0.2em 0.55em;
+  border-radius: 3px;
+  font-size: 0.68em;
   font-weight: 700;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
   z-index: 10;
   text-transform: uppercase;
 }
 
 .paper-box-text {
-  padding: 1.4rem 1.6rem;
+  padding: 1.2rem 1.4rem;
+  flex: 1;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .paper-box-text h3 {
-  margin: 0 0 0.6rem 0;
-  font-size: 1.1rem;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
   font-weight: 700;
   color: #1a202c;
   line-height: 1.35;
 }
 
 .paper-box-text p {
-  margin: 0 0 0.4rem 0;
+  margin: 0 0 0.3rem 0;
   color: #718096;
   line-height: 1.5;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
 }
 
 .paper-box-text .authors {
   color: #4a5568;
-  margin-bottom: 0.3rem;
-  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+  font-size: 0.88rem;
   font-weight: 500;
 }
 
@@ -461,28 +463,28 @@ body {
 
 .paper-box-text .venue {
   color: #718096;
-  font-size: 0.85rem;
-  margin-bottom: 0.8rem;
+  font-size: 0.83rem;
+  margin-bottom: 0.6rem;
   font-style: normal;
 }
 
 .paper-box-text .links {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.4rem;
   flex-wrap: wrap;
-  margin-top: 0.4rem;
+  margin-top: 0.3rem;
 }
 
-/* 论文链接按钮 - 小巧 outline */
+/* 论文链接按钮 */
 .paper-box-text .btn-accent {
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.25rem;
   background: transparent;
   color: #4a5568 !important;
-  padding: 0.3rem 0.7rem;
+  padding: 0.25rem 0.6rem;
   border-radius: 4px;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   font-weight: 500;
   text-decoration: none;
   border: 1px solid #cbd5e0;
@@ -499,30 +501,24 @@ body {
   border-color: #2B6CB0;
 }
 
-.paper-box-text .btn-accent:active {
-  transform: translateY(0);
-}
-
-/* 移动端 */
+/* 移动端改为上下 */
 @media (max-width: 768px) {
-  .paper-box-image {
-    padding: 14px 16px;
+  .paper-box {
+    flex-direction: column;
   }
 
-  .paper-box-image img {
-    max-height: 180px;
+  .paper-box-image {
+    width: 100%;
+    min-width: 100%;
+    padding: 8px;
   }
   
   .paper-box-text {
-    padding: 1.2rem;
+    padding: 1rem;
   }
   
   .paper-box-text h3 {
-    font-size: 1rem;
-  }
-  
-  .paper-box-text .links {
-    gap: 0.4rem;
+    font-size: 0.95rem;
   }
 }
 
