@@ -19,13 +19,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是 <span class="accent-text">李睿楷（Ricky Li）</span>，目前为 <i class="fas fa-university"></i> **北京航空航天大学交通科学与工程学院2024级博士生（硕转博）**。研究方向聚焦于**自动驾驶感知、在线高精地图构建与模型轻量化**。
+我是 <span class="accent-text">李睿楷（Ricky Li）</span>，<i class="fas fa-university"></i> **北京航空航天大学**交通科学与工程学院博士生（硕转博），导师为 <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">崔志勇教授</a>（海外优青），所在团队为**车路一体智能交通全国重点实验室**（<a href="https://www.cae.cn/cae/html/main/colys/92472279.html" class="link-accent">王云鹏院士</a>直属团队）。此前，我于北京工业大学-北京航空航天大学双培计划获得工学学士学位。
 
 <div class="quote-accent">
-我的目标是构建**高精度、低时延、可部署**的自动驾驶感知系统，让感知与建图算法更高效地服务真实场景。
+我的研究兴趣聚焦于<strong>自动驾驶感知</strong>与<strong>模型轻量化</strong>，具体包括在线高精地图构建、跨模态知识蒸馏、3D 语义占用预测与自动驾驶世界模型。目前已在 ECCV、ICLR、IEEE IV 等会议与期刊发表/投稿多篇论文。
 </div>
 
-欢迎交流科研合作：`rickyli@buaa.edu.cn`
+此外，我曾在**高德地图**（Mentor：<a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" class="link-accent">徐牧</a>）与**理想汽车**（Mentor：<a href="https://scholar.google.com/citations?user=1J061HIAAAAJ" class="link-accent">詹锟</a>）从事自动驾驶感知算法研究，并在清华大学智能产业研究院等机构积累了从算法研究到实车部署的产业经验。
+
+欢迎通过邮件交流科研合作：`rickyli@buaa.edu.cn`
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -129,3 +131,12 @@ redirect_from:
 - *2024.12 - 2025.06*：理想汽车，自动驾驶世界模型（占据栅格中心统一生成框架）。
 - *2024.10 - 2024.12*：清华大学智能产业研究院，自动驾驶拓扑理解轻量化。
 - *2022.06 - 2023.10*：北京洛必德科技有限公司，感知建图算法（半自动化高精地图标注、实车测试）。
+
+# <i class="fas fa-users"></i> 学术服务
+**审稿人：**
+- Computer Vision and Pattern Recognition (CVPR)
+- European Conference on Computer Vision (ECCV)
+- International Conference on Learning Representations (ICLR)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- Expert Systems With Applications (ESWA)
+- IEEE Transactions on Vehicular Technology (TVT)
