@@ -19,40 +19,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am a graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. I was a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+我是 <span class="accent-text">李睿楷（Ricky Li）</span>，目前为 <i class="fas fa-university"></i> **北京航空航天大学交通科学与工程学院博士生（硕转博）**。研究方向聚焦于**自动驾驶感知、在线高精地图构建与模型轻量化**。
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
+我的目标是构建**高精度、低时延、可部署**的自动驾驶感知系统，让感知与建图算法更高效地服务真实场景。
 </div>
 
-Feel free to reach out if you'd like to discuss research or explore potential collaboration!
+欢迎交流科研合作：`rickyli@buaa.edu.cn`
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3><i class="fas fa-graduation-cap"></i> 教育背景</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
-      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>博士（硕转博），北京航空航天大学（2024.09 - 至今）</li>
+      <li>硕士，北京航空航天大学（2022.09 - 2024.08）</li>
+      <li>本科，北京工业大学-北京航空航天大学双培（2018.09 - 2022.06）</li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3><i class="fas fa-microscope"></i> 科研方向</h3>
     <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
+      <li>在线高精地图构建（Online HD Mapping）</li>
+      <li>多模态蒸馏与跨模态先验迁移</li>
+      <li>自动驾驶 3D 语义占用预测与世界模型</li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
+    <h3><i class="fas fa-trophy"></i> 代表奖项</h3>
     <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
-      <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
+      <li>第三届迪拜世界自动驾驶挑战赛第一名（2023）</li>
+      <li>全国大学生交通运输科技大赛一等奖（2024）</li>
+      <li>首都挑战杯银奖（2024）</li>
     </ul>
   </div>
 </div>
@@ -61,53 +60,37 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
-# <i class="fas fa-file-alt"></i> Publications 
+# <i class="fas fa-file-alt"></i> 论文与成果
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Under Review</div>
-    <img src='images/TADA_pipeline.jpg' alt="CAST Framework Architecture" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">Under Review</div>
-    <!-- <div class="links">
-      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div> -->
-  </div>
-</div>
+- **MapDistill**: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation. *ECCV 2024, CCF-B, 共同第一作者*.
+- **E-MLP**: Effortless Online HD Map Construction with Linear Priors. *IEEE IV 2024, 第一作者*.
+- **Stability Under Scrutiny**: Benchmarking Representation Paradigms for Online HD Mapping. *ICLR 2026, 共同第一作者*.
+- **MapQP**: End-to-End Vectorized HD Map Construction with Relational Queries and Positional Encoding. *T-ITS, 三审中, 第一作者*.
+- **OccDistill**: Efficient Camera-based 3D Semantic Occupancy Prediction via Multi-modal Guided Distillation. *TMM, 二审中, 第一作者*.
+- **AMap**: Distilling Future Priors for Ahead-Aware Online HD Map Construction. *CVPR 2026 在投, 第一作者*.
 
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2025</div>
-    <img src='images/Example_page-0001.png' alt="DSGram Framework Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan</div>
-    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div>
-  </div>
-</div>
+# <i class="fas fa-graduation-cap"></i> 教育经历
+- *2024.09 - 至今*：北京航空航天大学，博士（硕转博），交通科学与工程学院。
+- *2022.09 - 2024.08*：北京航空航天大学，硕士，交通科学与工程学院。
+- *2018.09 - 2022.06*：北京工业大学-北京航空航天大学双培计划，本科，软件学院。
 
-- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
+# <i class="fas fa-laptop-code"></i> 实习与产业经历
+- *2025.06 - 2025.12*：高德地图，自动驾驶模型轻量化（前向有效在线矢量地图构建）。
+- *2024.12 - 2025.06*：理想汽车，自动驾驶世界模型（占据栅格中心统一生成框架）。
+- *2024.10 - 2024.12*：清华大学智能产业研究院，自动驾驶拓扑理解轻量化。
+- *2022.06 - 2023.10*：北京洛必德科技有限公司，感知建图算法（半自动化高精地图标注、实车测试）。
 
-# <i class="fas fa-graduation-cap"></i> Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+# <i class="fas fa-award"></i> 荣誉奖项
+- 第三届迪拜世界自动驾驶挑战赛第一名（2023）
+- 全国大学生交通运输科技大赛一等奖（2024）
+- IVISTA 虚拟仿真挑战赛特等奖
+- 首都挑战杯银奖（2024）
 
-# <i class="fas fa-laptop-code"></i> Internships
-- *2025.08 - Present*: &nbsp;Research Intern, <a href="https://www.asintelligence.xyz/" class="link-accent">Artificial Scientific Intelligence Lab</a>, **National University of Singapore**.
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-<!-- - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**. -->
+# <i class="fas fa-file-pdf"></i> 简历
 
-# <i class="fas fa-blog"></i> Blogs
+- 简历文件我已读取完成，建议后续放置到站点目录 `assets/` 后在此处添加下载链接。
+
+# <i class="fas fa-blog"></i> 博客
 
 <!-- Local Blog Posts Section -->
 {% if site.posts.size > 0 %}
@@ -146,6 +129,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 </div>
 {% endif %}
 
+<!-- 你后续若需要，我可以帮你把这一部分改为仅展示本地博客文章列表 -->
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">

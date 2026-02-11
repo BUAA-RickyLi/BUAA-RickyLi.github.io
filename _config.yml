@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jinxiang Xie"
+locale                   : "zh-CN"
+title                    : "李睿楷 | Ricky Li"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
-description              : ""
-url                     : "https://jxtse.github.io"
+name                     : "李睿楷"
+description              : "北京航空航天大学博士生，研究方向为自动驾驶感知与轻量化。"
+url                     : "https://buaa-rickyli.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "BUAA-RickyLi/BUAA-RickyLi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,14 +27,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "李睿楷"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "北京航空航天大学博士生 | 自动驾驶感知与轻量化"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    :
+  email            : "rickyli@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "BUAA-RickyLi"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -66,17 +66,17 @@ author:
 
 # 添加语言设置
 languages:
-  - en
-default_lang: "en"
+  - zh
+default_lang: "zh"
 t:
-  en:
-    home: "Home"
-    about: "About Me"
-    news: "News"
-    publications: "Publications"
-    educations: "Educations"
-    internships: "Internships"
-    blogs: "Blogs"
+  zh:
+    home: "首页"
+    about: "关于我"
+    news: "动态"
+    publications: "论文"
+    educations: "教育经历"
+    internships: "实习经历"
+    blogs: "博客"
 
 # Reading Files
 include:
