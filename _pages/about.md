@@ -45,15 +45,6 @@ redirect_from:
       <li>自动驾驶 3D 语义占用预测与世界模型</li>
     </ul>
   </div>
-  
-  <!-- <div class="highlight-block floating-card">
-    <h3><i class="fas fa-trophy"></i> 代表奖项</h3>
-    <ul>
-      <li>第三届迪拜世界自动驾驶挑战赛第一名（2023）</li>
-      <li>全国大学生交通运输科技大赛一等奖（2024）</li>
-      <li>首都挑战杯银奖（2024）</li>
-    </ul>
-  </div> -->
 </div>
 
 # <i class="fas fa-star"></i> 代表工作
@@ -68,7 +59,7 @@ redirect_from:
   <div class='paper-box-text'>
     <h3>MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation</h3>
     <div class="authors">Xiaoshuai Hao*, <strong>Ruikai Li*</strong>, Hui Zhang, et al.</div>
-    <div class="venue">ECCV 2024, CCF-B, 共同第一作者</div>
+    <div class="venue">ECCV 2024 &middot; CCF-B &middot; 共同第一作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2407.11682" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
       <a href="https://github.com/BUAA-RickyLi/MapDistill" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -84,7 +75,7 @@ redirect_from:
   <div class='paper-box-text'>
     <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
     <div class="authors">Hao Shan*, <strong>Ruikai Li*</strong>, Han Jiang, et al.</div>
-    <div class="venue">ICLR 2026, 共同第一作者</div>
+    <div class="venue">ICLR 2026 &middot; 共同第一作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2510.10660" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
       <a href="https://github.com/bhsh0112/MapStableTest" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -100,8 +91,9 @@ redirect_from:
   </div>
   <div class='paper-box-text'>
     <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
+    <p style="color:#6c757d; font-size:0.85rem; margin:0 0 0.5rem 0;"><i class="fas fa-building"></i> 高德地图实习期间完成</p>
     <div class="authors"><strong>Ruikai Li</strong>, Xinrun Li, Mengwei Xie, et al.</div>
-    <div class="venue">Under Review, 第一作者</div>
+    <div class="venue">Under Review &middot; 第一作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
     </div>
@@ -115,12 +107,14 @@ redirect_from:
   </div>
   <div class='paper-box-text'>
     <h3>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method</h3>
+    <p style="color:#6c757d; font-size:0.85rem; margin:0 0 0.5rem 0;"><i class="fas fa-building"></i> 理想汽车实习期间完成</p>
     <div class="authors">Bohan Li, Xin Jin, Hu Zhu, ..., <strong>Ruikai Li</strong>, et al.</div>
-    <div class="venue">Under Review, 参与作者</div>
+    <div class="venue">Under Review &middot; 参与作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2510.22973" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
       <a href="https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/tree/v2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
       <a href="https://arlo0o.github.io/uniscenev2/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+      <a href="https://huggingface.co/datasets/Arlolo0/Nuplan-Occupancy/tree/main" class="btn-accent"><i class="fas fa-database"></i> Dataset</a>
     </div>
   </div>
 </div>
@@ -135,9 +129,3 @@ redirect_from:
 - *2024.12 - 2025.06*：理想汽车，自动驾驶世界模型（占据栅格中心统一生成框架）。
 - *2024.10 - 2024.12*：清华大学智能产业研究院，自动驾驶拓扑理解轻量化。
 - *2022.06 - 2023.10*：北京洛必德科技有限公司，感知建图算法（半自动化高精地图标注、实车测试）。
-
-# <i class="fas fa-award"></i> 荣誉奖项
-- 第三届迪拜世界自动驾驶挑战赛第一名（2023）
-- 全国大学生交通运输科技大赛一等奖（2024）
-- IVISTA 虚拟仿真挑战赛特等奖
-- 首都挑战杯银奖（2024）
