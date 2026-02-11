@@ -40,7 +40,152 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* paper-box 和 badge 样式由 accent-enhancements.css 控制 */
+/* ====== 论文卡片 - 左图右文 ====== */
+.paper-box {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+    padding: 0;
+    transition: box-shadow 0.25s ease;
+
+    &:hover {
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+
+    .paper-box-image {
+        flex-shrink: 0;
+        width: 250px;
+        min-width: 250px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        padding: 10px;
+        box-sizing: border-box;
+        order: 1;
+        position: relative;
+
+        img, video {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            border-radius: 4px;
+        }
+    }
+
+    .paper-box-text {
+        flex: 1;
+        padding: 1.2rem 1.4rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        order: 2;
+        max-width: none;
+
+        h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: #1a202c;
+            line-height: 1.35;
+        }
+
+        .authors {
+            color: #4a5568;
+            font-size: 0.88rem;
+            font-weight: 500;
+            margin-bottom: 0.25rem;
+
+            strong {
+                color: #2B6CB0;
+                font-weight: 700;
+            }
+        }
+
+        .venue {
+            color: #718096;
+            font-size: 0.83rem;
+            margin-bottom: 0.6rem;
+        }
+
+        .links {
+            display: flex;
+            gap: 0.4rem;
+            flex-wrap: wrap;
+            margin-top: 0.3rem;
+        }
+
+        .btn-accent {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            background: transparent;
+            color: #4a5568;
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.76rem;
+            font-weight: 500;
+            text-decoration: none;
+            border: 1px solid #cbd5e0;
+            transition: all 0.2s ease;
+            box-shadow: none;
+
+            &::before, &::after {
+                display: none;
+            }
+
+            &:hover {
+                background: #2B6CB0;
+                color: white;
+                border-color: #2B6CB0;
+            }
+        }
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            width: 250px;
+            min-width: 250px;
+        }
+    }
+}
+
+/* 移动端 - 上下布局 */
+@media (max-width: 768px) {
+    .paper-box {
+        flex-direction: column;
+
+        .paper-box-image {
+            width: 100%;
+            min-width: 100%;
+        }
+
+        .paper-box-text {
+            padding: 1rem;
+        }
+    }
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #012F63;
+    color: white;
+    padding: 0.2em 0.55em;
+    border-radius: 3px;
+    font-size: 0.68em;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    z-index: 10;
+    text-transform: uppercase;
+    box-shadow: none;
+}
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
