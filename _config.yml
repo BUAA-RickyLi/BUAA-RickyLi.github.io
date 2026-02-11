@@ -28,8 +28,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "李睿楷"
-  avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "北京航空航天大学博士生 | 自动驾驶感知与轻量化"
+  avatar           : "images/ricky_avatar.png"
+  bio              : "北京航空航天大学 博士生"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
