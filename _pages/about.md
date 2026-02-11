@@ -56,29 +56,74 @@ redirect_from:
   </div> -->
 </div>
 
-# <i class="fas fa-file-alt"></i> 论文与成果
+# <i class="fas fa-star"></i> 代表工作
 
-- **MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**
-  <br>Xiaoshuai Hao\*, **Ruikai Li\***, Hui Zhang, et al. &nbsp; *ECCV 2024, CCF-B, 共同第一作者*
-  <br><a href="https://arxiv.org/abs/2407.11682" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a> <a href="https://github.com/BUAA-RickyLi/MapDistill" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+更多论文请见 <a href="https://scholar.google.com/citations?user=r309swkAAAAJ&hl=zh-CN" class="link-accent"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
-- **E-MLP: Effortless Online HD Map Construction with Linear Priors**
-  <br>**Ruikai Li**, Hao Shan, Han Jiang, et al. &nbsp; *IEEE IV 2024, 第一作者*
-  <br><a href="https://ieeexplore.ieee.org/document/10588612/" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ECCV 2024</div>
+    <img src='images/500x300.png' alt="MapDistill" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation</h3>
+    <div class="authors">Xiaoshuai Hao*, <strong>Ruikai Li*</strong>, Hui Zhang, et al.</div>
+    <div class="venue">ECCV 2024, CCF-B, 共同第一作者</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2407.11682" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/BUAA-RickyLi/MapDistill" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
 
-- **Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping**
-  <br>Hao Shan\*, **Ruikai Li\***, Han Jiang, et al. &nbsp; *ICLR 2026, 共同第一作者*
-  <br><a href="https://arxiv.org/abs/2510.10660" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a> <a href="https://github.com/bhsh0112/MapStableTest" class="btn-accent"><i class="fab fa-github"></i> Code</a> <a href="https://stablehdmap.github.io/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ICLR 2026</div>
+    <img src='images/500x300.png' alt="StableHDMap" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
+    <div class="authors">Hao Shan*, <strong>Ruikai Li*</strong>, Han Jiang, et al.</div>
+    <div class="venue">ICLR 2026, 共同第一作者</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2510.10660" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/bhsh0112/MapStableTest" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://stablehdmap.github.io/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+    </div>
+  </div>
+</div>
 
-- **MapQP: End-to-End Vectorized HD Map Construction with Relational Queries and Positional Encoding**
-  <br>**Ruikai Li**, et al. &nbsp; *Under Review, 第一作者*
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Under Review</div>
+    <img src='images/500x300.png' alt="AMap" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
+    <div class="authors"><strong>Ruikai Li</strong>, Xinrun Li, Mengwei Xie, et al.</div>
+    <div class="venue">Under Review, 第一作者</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+    </div>
+  </div>
+</div>
 
-- **OccDistill: Efficient Camera-based 3D Semantic Occupancy Prediction via Multi-modal Guided Distillation**
-  <br>**Ruikai Li**, et al. &nbsp; *Under Review, 第一作者*
-
-- **AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**
-  <br>**Ruikai Li**, Xinrun Li, Mengwei Xie, et al. &nbsp; *Under Review, 第一作者*
-  <br><a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Under Review</div>
+    <img src='images/500x300.png' alt="UniScenev2" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method</h3>
+    <div class="authors">Bohan Li, Xin Jin, Hu Zhu, ..., <strong>Ruikai Li</strong>, et al.</div>
+    <div class="venue">Under Review, 参与作者</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2510.22973" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/tree/v2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arlo0o.github.io/uniscenev2/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+    </div>
+  </div>
+</div>
 
 # <i class="fas fa-graduation-cap"></i> 教育经历
 - *2024.09 - 至今*：北京航空航天大学，博士（硕转博），交通科学与工程学院。
