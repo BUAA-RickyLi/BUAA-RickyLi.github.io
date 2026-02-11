@@ -11,7 +11,7 @@ title                    : "李睿楷 | Ricky Li"
 title_separator          : "-"
 subtitle                 : 
 name                     : "李睿楷"
-description              : "自动驾驶感知与轻量化。"
+description              : "自动驾驶感知与轻量化"
 url                     : "https://buaa-rickyli.github.io"
 baseurl                 : ""
 repository               : "BUAA-RickyLi/BUAA-RickyLi.github.io"
@@ -29,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "李睿楷"
   avatar           : "images/ricky_avatar.png"
-  bio              : "北京航空航天大学 博士生"
+  bio              : "北京航空航天大学 2024级博士生"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

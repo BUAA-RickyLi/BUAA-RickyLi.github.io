@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是 <span class="accent-text">李睿楷（Ricky Li）</span>，目前为 <i class="fas fa-university"></i> **北京航空航天大学交通科学与工程学院博士生（硕转博）**。研究方向聚焦于**自动驾驶感知、在线高精地图构建与模型轻量化**。
+我是 <span class="accent-text">李睿楷（Ricky Li）</span>，目前为 <i class="fas fa-university"></i> **北京航空航天大学交通科学与工程学院2024级博士生（硕转博）**。研究方向聚焦于**自动驾驶感知、在线高精地图构建与模型轻量化**。
 
 <div class="quote-accent">
 我的目标是构建**高精度、低时延、可部署**的自动驾驶感知系统，让感知与建图算法更高效地服务真实场景。
