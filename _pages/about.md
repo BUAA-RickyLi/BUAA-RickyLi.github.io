@@ -19,13 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是 <span class="accent-text">李睿楷（Ricky Li）</span>，<i class="fas fa-university"></i> **北京航空航天大学**交通科学与工程学院博士生（硕转博），导师为 <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">崔志勇教授</a>（海外优青），所在团队为**车路一体智能交通全国重点实验室**（<a href="https://www.cae.cn/cae/html/main/colys/92472279.html" class="link-accent">王云鹏院士</a>直属团队）。此前，我于北京工业大学-北京航空航天大学双培计划获得工学学士学位。
+我是 <span class="accent-text">李睿楷（Ricky Li）</span>，<i class="fas fa-university"></i> **北京航空航天大学**交通科学与工程学院2024级博士生（硕转博），导师为 <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">崔志勇教授</a>（海外优青），所在团队为**车路一体智能交通全国重点实验室**（<a href="https://www.cae.cn/cae/html/main/colys/92472279.html" class="link-accent">王云鹏院士</a>直属团队）。此前，我于北京工业大学-北京航空航天大学双培计划获得工学学士学位。
 
 <div class="quote-accent">
-我的研究兴趣聚焦于<strong>自动驾驶感知</strong>与<strong>模型轻量化</strong>，具体包括在线高精地图构建、跨模态知识蒸馏、3D 语义占用预测与自动驾驶世界模型。目前已在 ECCV、ICLR、IEEE IV 等会议与期刊发表/投稿多篇论文。
+我的研究兴趣聚焦于<strong>自动驾驶感知</strong>与<strong>模型轻量化</strong>，具体包括在线高精地图构建、跨模态知识蒸馏、3D 语义占用预测与自动驾驶世界模型。目前已在 ECCV、ICLR等会议与IEEE-TPAMI、IEEE-TMM等期刊发表/投稿多篇论文。
 </div>
 
-此外，我曾在**高德地图**（Mentor：<a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" class="link-accent">徐牧</a>）与**理想汽车**（Mentor：<a href="https://scholar.google.com/citations?user=1J061HIAAAAJ" class="link-accent">詹锟</a>）从事自动驾驶感知算法研究，并在清华大学智能产业研究院等机构积累了从算法研究到实车部署的产业经验。
+我很荣幸曾在**高德地图**（Mentor：<a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" class="link-accent">徐牧</a>）与**理想汽车**（Mentor：<a href="https://scholar.google.com/citations?user=1J061HIAAAAJ" class="link-accent">詹锟</a>）从事自动驾驶感知算法研究。
 
 欢迎通过邮件交流科研合作：`rickyli@buaa.edu.cn`
 
