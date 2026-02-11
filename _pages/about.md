@@ -54,7 +54,7 @@ redirect_from:
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ECCV 2024</div>
-    <img src='images/500x300.png' alt="MapDistill" width="100%">
+    <img src='images/mapdistill_pipeline.png' alt="MapDistill" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation</h3>
@@ -70,7 +70,7 @@ redirect_from:
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICLR 2026</div>
-    <img src='images/500x300.png' alt="StableHDMap" width="100%">
+    <img src='images/stablehdmap_pipeline.png' alt="StableHDMap" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
@@ -87,13 +87,13 @@ redirect_from:
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Under Review</div>
-    <img src='images/500x300.png' alt="AMap" width="100%">
+    <img src='images/amap_pipeline.png' alt="AMap" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
     <p style="color:#6c757d; font-size:0.85rem; margin:0 0 0.5rem 0;"><i class="fas fa-building"></i> 高德地图实习期间完成</p>
-    <div class="authors"><strong>Ruikai Li</strong>, Xinrun Li, Mengwei Xie, et al.</div>
-    <div class="venue">Under Review &middot; 第一作者</div>
+    <div class="authors"><strong>Ruikai Li*</strong>, Xinrun Li*, Mengwei Xie, et al.</div>
+    <div class="venue">Under Review &middot; 共同第一作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
     </div>
@@ -103,7 +103,7 @@ redirect_from:
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Under Review</div>
-    <img src='images/500x300.png' alt="UniScenev2" width="100%">
+    <img src='images/uniscenev2_pipeline.png' alt="UniScenev2" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method</h3>
