@@ -88,14 +88,14 @@ redirect_from:
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Under Review</div>
+    <div class="badge pulse-accent">CVPR 2026</div>
     <img src='images/amap_pipeline.png' alt="AMap" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
     <p style="color:#6c757d; font-size:0.85rem; margin:0 0 0.5rem 0;"><i class="fas fa-building"></i> 高德地图实习期间完成</p>
     <div class="authors"><strong>Ruikai Li*</strong>, Xinrun Li*, Mengwei Xie, et al.</div>
-    <div class="venue">Under Review &middot; 共同第一作者</div>
+    <div class="venue">CVPR 2026 &middot; CCF-A &middot; 共同第一作者</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
     </div>
