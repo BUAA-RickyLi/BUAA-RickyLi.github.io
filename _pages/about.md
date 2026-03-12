@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am <span class="accent-text">Ruikai Li (Ricky)</span>, <i class="fas fa-university"></i> a 2nd-year Ph.D. student at the School of Transportation Science and Engineering, **Beihang University (BUAA)**, advised by <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">Prof. Zhiyong Cui</a>. Prior to my Ph.D., I received my B.Eng. degree from the joint program between Beijing University of Technology (BJUT) and Beihang University.
+I am <span class="accent-text">Ruikai Li (Ricky)</span>, <i class="fas fa-university"></i> a 2nd-year Ph.D. student at the School of Transportation Science and Engineering, **Beihang University (BUAA)**, advised by <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">Prof. Zhiyong Cui</a>. Prior to my Ph.D., I received my B.Eng. degree from Beijing University of Technology (BJUT).
 
 <div class="quote-accent">
 My research interests focus on <strong>computer vision</strong> and <strong>efficient perception</strong>, including online HD map construction, cross-modal knowledge distillation, 3D semantic occupancy prediction, and driving scene generation. I have published papers at top venues such as ECCV, ICLR, CVPR, and IEEE TPAMI.
@@ -35,7 +35,7 @@ Feel free to reach out for research collaboration: `rickyli@buaa.edu.cn`
     <ul>
       <li>Ph.D. Student, Beihang University (2024.09 – Present)</li>
       <li>M.Eng., Beihang University (2022.09 – 2024.08)</li>
-      <li>B.Eng., BJUT–Beihang Joint Program (2018.09 – 2022.06)</li>
+      <li>B.Eng., Beijing University of Technology (2018.09 – 2022.06)</li>
     </ul>
   </div>
   
@@ -124,7 +124,7 @@ For a full list, please visit <a href="https://scholar.google.com/citations?user
 # <i class="fas fa-graduation-cap"></i> Education
 - *2024.09 – Present*: **Beihang University (BUAA)**, Ph.D. Student, School of Transportation Science and Engineering.
 - *2022.09 – 2024.08*: **Beihang University (BUAA)**, M.Eng., School of Transportation Science and Engineering.
-- *2018.09 – 2022.06*: **BJUT–Beihang Joint Program**, B.Eng., School of Software Engineering.
+- *2018.09 – 2022.06*: **Beijing University of Technology (BJUT)**, B.Eng., School of Software Engineering.
 
 # <i class="fas fa-laptop-code"></i> Industry Experience
 - *2025.06 – 2025.12*: **Amap (AutoNavi)**, Research Intern — Efficient online vectorized map construction.
