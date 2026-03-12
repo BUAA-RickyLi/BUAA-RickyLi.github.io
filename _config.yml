@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "李睿楷 | Ricky Li"
+locale                   : "en-US"
+title                    : "Ruikai Li | Ricky"
 title_separator          : "-"
 subtitle                 : 
-name                     : "李睿楷"
-description              : "自动驾驶感知与轻量化"
+name                     : "Ruikai Li"
+description              : "Computer Vision & Efficient Perception"
 url                     : "https://buaa-rickyli.github.io"
 baseurl                 : ""
 repository               : "BUAA-RickyLi/BUAA-RickyLi.github.io"
@@ -27,13 +27,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "李睿楷"
+  name             : "Ruikai Li"
   avatar           : "images/ricky_avatar.png"
-  bio              : "北京航空航天大学 2024级博士生"
+  bio              : "Ph.D. Student @ Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=r309swkAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=r309swkAAAAJ&hl=en"
   email            : "rickyli@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -64,19 +64,19 @@ author:
   youtube          :
   wikipedia        :
 
-# 添加语言设置
+# Language Settings
 languages:
-  - zh
-default_lang: "zh"
+  - en
+default_lang: "en"
 t:
-  zh:
-    home: "首页"
-    about: "关于我"
-    news: "动态"
-    publications: "论文"
-    educations: "教育经历"
-    internships: "实习经历"
-    blogs: "博客"
+  en:
+    home: "Home"
+    about: "About"
+    news: "News"
+    publications: "Publications"
+    educations: "Education"
+    internships: "Experience"
+    blogs: "Blog"
 
 # Reading Files
 include:
