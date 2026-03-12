@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am <span class="accent-text">Ruikai Li (Ricky)</span>, <i class="fas fa-university"></i> a 2nd-year Ph.D. student at the School of Transportation Science and Engineering, **Beihang University (BUAA)**, advised by <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">Prof. Zhiyong Cui</a>. I am a member of the **National Key Laboratory of Vehicle-Road Intelligent Transportation** (led by <a href="https://www.cae.cn/cae/html/main/colys/92472279.html" class="link-accent">Academician Yunpeng Wang</a>). Prior to my Ph.D., I received my B.Eng. degree from the joint program between Beijing University of Technology (BJUT) and Beihang University.
+I am <span class="accent-text">Ruikai Li (Ricky)</span>, <i class="fas fa-university"></i> a 2nd-year Ph.D. student at the School of Transportation Science and Engineering, **Beihang University (BUAA)**, advised by <a href="https://scholar.google.com/citations?user=kKHcRDkAAAAJ" class="link-accent">Prof. Zhiyong Cui</a>. Prior to my Ph.D., I received my B.Eng. degree from the joint program between Beijing University of Technology (BJUT) and Beihang University.
 
 <div class="quote-accent">
 My research interests focus on <strong>computer vision</strong> and <strong>efficient perception</strong>, including online HD map construction, cross-modal knowledge distillation, 3D semantic occupancy prediction, and driving scene generation. I have published papers at top venues such as ECCV, ICLR, CVPR, and IEEE TPAMI.
@@ -77,7 +77,7 @@ For a full list, please visit <a href="https://scholar.google.com/citations?user
   <div class='paper-box-text'>
     <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
     <div class="authors">Hao Shan*, <strong>Ruikai Li*</strong>, Han Jiang, et al.</div>
-    <div class="venue">ICLR 2026 &middot; Co-first Author</div>
+    <div class="venue">ICLR 2026 &middot; CCF-A &middot; Co-first Author</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2510.10660" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
       <a href="https://github.com/bhsh0112/MapStableTest" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -129,8 +129,6 @@ For a full list, please visit <a href="https://scholar.google.com/citations?user
 # <i class="fas fa-laptop-code"></i> Industry Experience
 - *2025.06 – 2025.12*: **Amap (AutoNavi)**, Research Intern — Efficient online vectorized map construction.
 - *2024.12 – 2025.06*: **Li Auto**, Research Intern — Occupancy-centric driving scene generation.
-- *2024.10 – 2024.12*: **AIR, Tsinghua University**, Research Intern — Efficient topology reasoning for scene understanding.
-- *2022.06 – 2023.10*: **Beijing Robodex Technology**, Algorithm Engineer — HD map annotation and on-vehicle testing.
 
 # <i class="fas fa-users"></i> Academic Service
 **Reviewer:**
