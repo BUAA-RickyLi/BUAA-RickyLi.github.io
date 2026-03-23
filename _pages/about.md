@@ -25,7 +25,7 @@ I am <span class="accent-text">Ruikai Li (Ricky)</span>, <i class="fas fa-univer
 My research interests focus on <strong>computer vision</strong> and <strong>efficient perception</strong>, including online HD map construction, cross-modal knowledge distillation, 3D semantic occupancy prediction, and driving scene generation. I have published papers at top venues such as ECCV, ICLR, CVPR, and IEEE TPAMI.
 </div>
 
-I had the privilege of interning at **Amap (AutoNavi)** (Mentor: <a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" class="link-accent">Mu Xu</a>) and **Li Auto** (Mentor: <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ" class="link-accent">Kun Zhan</a>), working on perception algorithms.
+I had the privilege of interning at **Amap** (Mentor: <a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" class="link-accent">Mu Xu</a>) and **Li Auto** (Mentor: <a href="https://scholar.google.com/citations?user=1J061HIAAAAJ" class="link-accent">Kun Zhan</a>), working on perception algorithms.
 
 Feel free to reach out for research collaboration: `rickyli@buaa.edu.cn`
 
@@ -127,7 +127,7 @@ For a full list, please visit <a href="https://scholar.google.com/citations?user
 - *2018.09 – 2022.06*: **Beijing University of Technology (BJUT)**, B.Eng., School of Software Engineering.
 
 # <i class="fas fa-laptop-code"></i> Industry Experience
-- *2025.06 – 2025.12*: **Amap (AutoNavi)**, Research Intern — Efficient online vectorized map construction.
+- *2025.06 – 2025.12*: **Amap**, Research Intern — Efficient online vectorized map construction.
 - *2024.12 – 2025.06*: **Li Auto**, Research Intern — Occupancy-centric driving scene generation.
 
 # <i class="fas fa-users"></i> Academic Service
