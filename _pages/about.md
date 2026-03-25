@@ -98,6 +98,8 @@ For a full list, please visit <a href="https://scholar.google.com/citations?user
     <div class="venue">CVPR 2026 &middot; CCF-A &middot; Co-first Author</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.19150" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/BUAA-RickyLi/AMap" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://buaa-rickyli.github.io/AMap/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
     </div>
   </div>
 </div>
